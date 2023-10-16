@@ -1,0 +1,25 @@
+SEO- Search Engine Optimization
+
+
+Core Web Vitals
+
+
+
+CLS- Comulative Layout Shift
+LCP- Largest Contentful Paint
+FID- First Input Delay
+
+
+Lighthouse---> it give report what can be improve in our html page
+give suggesstion for improvement
+
+(it is a hidden tool)
+
+Coomulative Layout Shift -- it should be very less for good user experience
+
+
+
+SEO Practice
+-> title( it must reflect content of your web page)
+-> meta desc
+(earlier meta content was use now it is abricated)
