@@ -1,0 +1,6 @@
+
+Types of CSS
+
+inline CSS
+internal CSS
+external CSS
