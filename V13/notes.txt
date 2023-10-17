@@ -26,4 +26,4 @@ Displaying Special Symbols
 Creating Non-Breaking Spaces
 <p>This is an example&nbsp;text.</p>
 Conclusion
-HTML entities are essential for rendering special or reserved characters on a web page. Understanding how to use them effectively is key to creating web pages that display content as intended.
+HTML entities are essential for rendering special or reserved characters on a web page. Understanding how to use them effectively is key to creating web pages that display content as intended. 
